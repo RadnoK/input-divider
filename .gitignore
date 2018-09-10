@@ -1,0 +1,6 @@
+phpspec.yml
+
+/vendor
+/bin/*
+
+!/bin/console
